@@ -17,6 +17,14 @@ body {
 	background-image:url(../images/home.png);
 }
 
+#buy #container { 
+	background-image:url(../images/buy.png);
+}
+
+#home_2 #container { 
+	background-image:url(../images/home_2.png);
+}
+
 #login #container {
 	background-image:url(../images/login.png);
 }	
@@ -25,6 +33,6 @@ body {
 	background-image:url(../images/decide.png);
 }
 
-#decide #tag {
-	background-image:url(../images/decide.png);
+#done #container {
+	background-image:url(../images/done.png);
 }

@@ -10,7 +10,13 @@
 	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
 	
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.5.min.js"></script>
-
+    <script>
+        $(document).ready(function() {
+             $('body').click(function() { 
+                 window.location = "done.php"; 
+             });
+        });
+    </script>
 </head> 
 
 <body id='decide'>

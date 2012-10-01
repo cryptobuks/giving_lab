@@ -13,7 +13,7 @@
     <script>
         $(document).ready(function() {
              $('body').click(function() { 
-                 window.location = "login.php"; 
+                 window.location = "buy.php"; 
              });
         });
     </script>
