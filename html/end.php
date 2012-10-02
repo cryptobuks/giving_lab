@@ -29,14 +29,13 @@
             <li>Restrict it to London so we can make sure charity recommendation works well</li>
             <li>Find a small company that does user testing and would be prepared to offer GiftCoins as an alternative to money (Seren?)</li>
             <li>Don't need to do the physical part to start with</li>
-        <ul>
+        </ul>
             
         <h1>Weaknesses</h1>  
         <p>The "memento" gift coins offered at the end aren't quite right. I'd like to make a physical object, <a href='http://www.youtube.com/watch?v=oEr_fpbtlZo&feature=relmfu'>something like this</a>.</p> 
     
         
-        
-        <h1 style='text-decoration:underline'>Click to see the redemption user journey</h1>      
+     
     </div>
 </body>
 </html>
