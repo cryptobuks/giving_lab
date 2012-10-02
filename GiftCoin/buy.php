@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset=utf-8 />
-	<title>Redeemer</title>
+	<title>GiftCoin</title>
 	<meta name="description" content="Redeemer" />
 	<link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
@@ -13,7 +13,7 @@
     <script>
         $(document).ready(function() {
              $('body').click(function() { 
-                 window.location = "index2.php"; 
+                 window.location = "redeem.php"; 
              });
         });
     </script>
