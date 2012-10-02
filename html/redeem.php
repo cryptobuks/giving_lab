@@ -24,6 +24,11 @@
 <body id='desc'>
     <div id='container'>
         <h1>Redemption User Journey</h1>
+        
+        <p>Once a company has purchased the GiftCoins, they can give them to people as a reward or incentive.</p>
+        
+        <p>Those people come to the website to make their donation.</p>
+        
         <p>If a recipient has a code, they simply type it into the front page of the website</p>
         
         <p>If they have a physical coin, they could either scan the QR code, or go to a unique URL, as printed on the other side of the coin.</p> 
