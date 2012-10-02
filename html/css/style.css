@@ -1,0 +1,38 @@
+body { 
+	background-image:url(../images/bkg.png);	
+	
+}
+
+#container { 
+	background-position:center top;
+	position:absolute;
+	left:50%;
+	margin-left:-500px;
+	height: 1500px;
+	width:1000px;
+	background-repeat:no-repeat;
+}
+
+#home #container { 
+	background-image:url(../images/home.png);
+}
+
+#buy #container { 
+	background-image:url(../images/buy.png);
+}
+
+#home_2 #container { 
+	background-image:url(../images/home_2.png);
+}
+
+#login #container {
+	background-image:url(../images/login.png);
+}	
+
+#decide #container {
+	background-image:url(../images/decide.png);
+}
+
+#done #container {
+	background-image:url(../images/done.png);
+}
